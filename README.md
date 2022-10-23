@@ -2,6 +2,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-https://img.shields.io/badge/Lang-JavaScript-yellowgreen
-
+![wwwsfae](https://img.shields.io/badge/Lang-JavaScript-yellowgreen)
 
